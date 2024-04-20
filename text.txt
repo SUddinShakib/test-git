@@ -1,4 +1,5 @@
 hello this is git and github lesson.
 I am Shamsuddin Shakib.
 I study in CSE.
-My university name is AUST.
+My university name is AUST.Now i can push and pull a repository and also 
+create repository and add .
