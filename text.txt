@@ -1,3 +1,4 @@
 hello this is git and github lesson.
 I am Shamsuddin Shakib.
 I study in CSE.
+My university name is AUST.
